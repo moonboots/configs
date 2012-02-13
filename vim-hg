@@ -1,0 +1,1 @@
+./configure --prefix=/home/jack/local/vim-$(hg id -t) --disable-darwin --disable-selinux	--disable-xsmp --disable-xsmp-interact --enable-pythoninterp=dynamic --enable-rubyinterp=dynamic --disable-netbeans --enable-gui=no --disable-gtktest --disable-acl --disable-gpm --disable-sysmouse --disable-nls --with-x --with-features=big
